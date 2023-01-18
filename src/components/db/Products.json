@@ -1,0 +1,243 @@
+[
+    {
+      "idProduct": 1,
+      "description": "Set Universe",
+      "idCategory": 3,
+      "price": 15000,
+      "image": "img-prod3.jpg",
+      "stock": 10
+    },
+    {
+      "idProduct": 2,
+      "description": "Tights + fluo t-shirt",
+      "idCategory": 1,
+      "price": 24000,
+      "image": "img-producto5.jpg",
+      "stock": 5
+    },
+    {
+      "idProduct": 3,
+      "description": "Multicolored shim",
+      "idCategory": 1,
+      "price": 11500,
+      "image": "img-producto6.jpg",
+      "stock": 3
+    },
+    {
+      "idProduct": 4,
+      "description": "Thermic socks",
+      "idCategory": 3,
+      "price": 4000,
+      "image": "img-productos.jpg",
+      "stock": 6
+    },
+    {
+      "idProduct": 5,
+      "description": "Short + Top Blue",
+      "idCategory": 1,
+      "price": 15000,
+      "image": "img-productos1.jpg",
+      "stock": 20
+    },
+    {
+      "idProduct": 6,
+      "description": "Orange coverall",
+      "idCategory": 3,
+      "price": 17000,
+      "image": "img-productos2.jpg",
+      "stock": 10
+    },
+    {
+      "idProduct": 7,
+      "description": "Short + Top fluo",
+      "idCategory": 1,
+      "price": 23000,
+      "image": "img-productos4.jpg",
+      "stock": 4
+    },
+    {
+      "idProduct": 8,
+      "description": "Cell phone holder",
+      "idCategory": 5,
+      "price": 6500,
+      "image": "img-promo2.jpg",
+      "stock": 4
+    },
+    {
+      "idProduct": 9,
+      "description": "Nike classic set",
+      "idCategory": 2,
+      "price": 40000,
+      "image": "kid1 (1).jpg",
+      "stock": 3
+    },
+    {
+      "idProduct": 10,
+      "description": "Set for tennis",
+      "idCategory": 2,
+      "price": 27000,
+      "image": "kid2 (1).jpg",
+      "stock": 2
+    },
+    {
+      "idProduct": 11,
+      "description": "Set Yellow",
+      "idCategory": 2,
+      "price": 9700,
+      "image": "kid3 (1).jpg",
+      "stock": 7
+    },
+    {
+      "idProduct": 12,
+      "description": "Red one-piece",
+      "idCategory": 2,
+      "price": 11500,
+      "image": "kids5.jpg",
+      "stock": 7
+    },
+    {
+      "idProduct": 13,
+      "description": "Cheerleading team",
+      "idCategory": 2,
+      "price": 25000,
+      "image": "kids7.jpg",
+      "stock": 8
+    },
+    {
+      "idProduct": 14,
+      "description": "Artistic gymnastics hoop",
+      "idCategory": 5,
+      "price": 3800,
+      "image": "kids9.jpg",
+      "stock": 4
+    },
+    {
+      "idProduct": 15,
+      "description": "Bone set",
+      "idCategory": 3,
+      "price": 45000,
+      "image": "men1.jpg",
+      "stock": 3
+    },
+    {
+      "idProduct": 16,
+      "description": "Surfboard",
+      "idCategory": 5,
+      "price": 37000,
+      "image": "men3.jpg",
+      "stock": 12
+    },
+    {
+      "idProduct": 17,
+      "description": "Total white",
+      "idCategory": 3,
+      "price": 200,
+      "image": "men4.jpg",
+      "stock": 4
+    },
+    {
+      "idProduct": 18,
+      "description": "Biker + Top",
+      "idCategory": 1,
+      "price": 13000,
+      "image": "portada-woman.jpg",
+      "stock": 9
+    },
+    {
+      "idProduct": 19,
+      "description": "Dress",
+      "idCategory": 2,
+      "price": 11000,
+      "image": "portadakids (1).jpg",
+      "stock": 5
+    },
+    {
+      "idProduct": 20,
+      "description": " Weighs",
+      "idCategory": 5,
+      "price": 15000,
+      "image": "portadaman.jpg",
+      "stock": 14
+    },
+    {
+      "idProduct": 21,
+      "description": "Surfing equipment",
+      "idCategory": 3,
+      "price": 15000,
+      "image": "producto1.jpg",
+      "stock": 8
+    },
+    {
+      "idProduct": 22,
+      "description": "Classic black",
+      "idCategory": 3,
+      "price": 6500,
+      "image": "producto2.jpg",
+      "stock": 6
+    },
+    {
+      "idProduct": 23,
+      "description": "Top+Biker rose nude",
+      "idCategory": 4,
+      "price": 26000,
+      "image": "producto3.jpg",
+      "stock": 12
+    },
+    {
+      "idProduct": 24,
+      "description": "Top+Biker white",
+      "idCategory": 4,
+      "price": 29000,
+      "image": "producto8.jpg",
+      "stock": 3
+    },
+    {
+      "idProduct": 25,
+      "description": "Tights with microtulle",
+      "idCategory": 4,
+      "price": 16000,
+      "image": "promo3.jpg",
+      "stock": 12
+    },
+    {
+      "idProduct": 26,
+      "description": "Top + wedge",
+      "idCategory": 4,
+      "price": 34000,
+      "image": "promo4.jpg",
+      "stock": 2
+    },
+    {
+      "idProduct": 27,
+      "description": "Top tricolor",
+      "idCategory": 4,
+      "price": 11000,
+      "image": "promo5.jpg",
+      "stock": 12
+    },
+    {
+      "idProduct": 28,
+      "description": "Top + jacket Fluo",
+      "idCategory": 1,
+      "price": 39000,
+      "image": "promo8.jpg",
+      "stock": 1
+    },
+    {
+      "idProduct": 29,
+      "description": "Hijab black",
+      "idCategory": 5,
+      "price": 9000,
+      "image": "woman1.jpg",
+      "stock": 1
+    },
+    {
+      "idProduct": 30,
+      "description": "Set for tennis total white",
+      "idCategory": 1,
+      "price": 29000,
+      "image": "woman2.jpg",
+      "stock": 1
+    }
+
+  ]

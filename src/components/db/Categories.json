@@ -1,0 +1,22 @@
+[
+    {
+      "idCategory": 1,
+      "category": "Womans"
+    },
+    {
+      "idCategory": 2,
+      "category": "Kids"
+    },
+    {
+      "idCategory": 3,
+      "category": "Men"
+    },
+    {
+      "idCategory": 4,
+      "category": "Offer new colection"
+    },
+    {
+      "idCategory": 5,
+      "category": "Accesories"
+    }
+  ]

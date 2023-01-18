@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.usr-logo {
+  font-family: 'Righteous';
+  font-size: 4rem;
+  text-shadow:
+    #FFF 0px 0px 5px,
+    #FFF 0px 0px 10px,
+    #FFF 0px 0px 15px,
+    #060707 0px 0px 20px,
+    #060707 0px 0px 30px,
+    #060707 0px 0px 40px,
+    #060707 0px 0px 50px,
+    #060707 0px 0px 75px;
+  color: #e6f767e2;
+  margin-right: 2rem;
+}
+
+.usr-logo--sub {
+  font-size: 1.6rem;
+  text-shadow:#6b7e0a 3px 3px 10px;
+  color: #060707;
+}
+
+.svg-inline--fa {
+  font-size: 2rem;
+  margin: 0 1rem;
+}
+
+.navbar-dark {
+  background: linear-gradient(to right, #96eff4 0%, #f7eeabfd 42%, #f0eb95 51%, #91f3f5f9 100%); }
